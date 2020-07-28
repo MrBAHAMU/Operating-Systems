@@ -1,0 +1,2 @@
+Operating System Functions:
+1. Starting Computers and Mobile Devices is the first fuction that we will notice at the first time we use a computer or mobile. Every device provides start buttom. It is originally used to turn on a device by pressing a power button. Also, It could be used to restart or reboot a computer or mobile device. 
